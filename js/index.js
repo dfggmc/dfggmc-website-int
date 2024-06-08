@@ -30,7 +30,7 @@ $.getJSON("data/json/serverNotice.json", function (data) {
                         <br>
                         <i class="fas fa-clock"></i>${item.time}
                     </p>
-                    <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-shadow btn-gradient">查看详情</a>
+                    <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-shadow btn-gradient">Find out more</a>
                 </div>
             </div>
             `;
@@ -48,7 +48,7 @@ $.getJSON("data/json/serverNotice.json", function (data) {
                         <br>
                         <i class="fa-solid fa-clock"></i>${item.time}
                     </p>
-                    <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-shadow btn-gradient">查看详情</a>
+                    <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-shadow btn-gradient">Find out more</a>
                 </div>
                 <!-- cover -->
                 <div class="image col-lg-6 order-1 order-lg-2">
@@ -79,7 +79,7 @@ $.getJSON("data/json/friends.json", function (data) {
                 <img src="/img/friends/${domain}.gif" alt="${item.name}" class="img-fluid img-rounded img-circle">
             </div>
             <h3 class="h5">${item.name}</h3>
-            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-shadow btn-gradient">进入</a>
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-shadow btn-gradient">visit</a>
         </div>
         `;
         $('#friends .grid').append(html);
