@@ -1,30 +1,18 @@
 [
     {
-        "link": "https://peg195.pages.dev/",
-        "name": "peg195的博客"
-    },
-    {
-        "link": "https://maserver.netlify.app/",
-        "name": "MA-CAT社会主义联盟"
+        "link": "https://peg195.eu.org/",
+        "name": "peg195's website"
     },
     {
         "link": "https://www.lzdcraft.top/",
-        "name": "LZD服务器"
-    },
-    {
-        "link": "https://baketo.framer.ai/",
-        "name": "Baketo多玩法服务器"
+        "name": "LZDCraft"
     },
     {
         "link": "https://zl.cn.eu.org/",
-        "name": "ZUYCraft（ZUYMCS）"
-    },
-    {
-        "link":"https://www.iarc.top/",
-        "name": "圆弧派博客"
+        "name": "ZUYCraft"
     },
     {
         "link": "https://cmsa.dfggmc.top/",
-        "name": "Cuberite Minecraft服务器联盟"
+        "name": "Cuberite Minecraft Server Alliance"
     }
 ]
